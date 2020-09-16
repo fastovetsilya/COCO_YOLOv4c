@@ -1,5 +1,5 @@
 # COCO_YOLOv4c
-MS COCO data preparation for [YOLOv4c](https://github.com/fastovetsilya/darknet) validation. 
+MS COCO ground truth preparation for [YOLOv4c](https://github.com/fastovetsilya/darknet) training and validation. 
 
 # The problem
 The original MS COCO dataset annotations include coordinates of rectangular bounding boxes 
