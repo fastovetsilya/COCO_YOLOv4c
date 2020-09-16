@@ -10,7 +10,7 @@ Thus, the original bounding boxes is not a correct way of training and testing t
 To simplify the problem, we decided to generate square bounding boxes from the masks. To do this, we fitted a minimum enclosing circle for masks of each instance of the objects. In some cases, the objects were occluded, and the instances contained more than one mask. For this case, a [Convex Hull](https://en.wikipedia.org/wiki/Convex_hull) algorithm was applied to the masks of that instance, and the circle was fitter to the resulting polygon.
 The idea of the proposed solution is shown in the image below. The blue bounding box is the original rectangular bounding box from the COCO dataset. The white countour is the mask for that instance of the object. The red is the generated bounding box corresponding to the circular bounding box that encloses the object. 
 
-<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_1.png" width="400" height="300">
+<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_1.png" width="640" height="425">
 
 
 
