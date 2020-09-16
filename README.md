@@ -18,8 +18,3 @@ The comparison between the original bounding boxes and the bounding boxes after 
 
 <img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_2.png" width="1000" height="390">
 <img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_3.png" width="1000" height="380">
-
-
-
-
-
