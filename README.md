@@ -16,8 +16,8 @@ The idea of the proposed solution is shown in the image below. The blue bounding
 # The results
 The comparison between the original bounding boxes and the bounding boxes after the transformation is shown in the images below. In most of the cases, these bounding boxes are more suitable for training and validation of YOLOv4c compared to the original ones. However, better results could be achieved if the data was labeled with ellipses or circles by hand. 
 
-<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_2.png" width="1132" height="539">
-<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_3.png" width="1132" height="539">
+<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_2.png" width="1000" height="400">
+<img src="https://github.com/fastovetsilya/COCO_YOLOv4c/blob/master/examples/example_3.png" width="1000" height="400">
 
 
 
