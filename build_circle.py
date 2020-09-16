@@ -43,4 +43,3 @@ cv2.drawContours(img,[obj_polygon_contours], 0, (255,255,255), 2)
 cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
