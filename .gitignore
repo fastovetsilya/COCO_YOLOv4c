@@ -1,6 +1,4 @@
 .json
-.jpg
-.png
 annotations/*
 train2017/*
 val2017/*

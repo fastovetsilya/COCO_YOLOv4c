@@ -1,3 +1,7 @@
+'''
+A demonstration of the method
+'''
+
 import numpy as np
 import cv2
 
